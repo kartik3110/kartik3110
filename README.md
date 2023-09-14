@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Kartik Gupta</h2>
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" style="width: 300px"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" style="width: 300px"/> -->
 <h4>Web developer💻 | Electronics & Computer engineering undergrad</h4>
 
 - 🌱 I’m currently learning **react js and DS algorithms**
